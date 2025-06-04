@@ -1,6 +1,7 @@
-<center>## Hi👋, I'm ABHILASH H K </center>
+<div style="justify-content:center;" >
+## Hi👋, I'm ABHILASH H K
 <p>A passionate Developer</p>
-
+</div>
 
 🎓 Currently pursuing MCA (2025) with a passion for full stack development and real-world problem solving.<br><br>🧠 Currently working on OMR sheet analyzer.<br><br>⚛️ constantly learning and exploring.<br><br>🧠 Built Projects like Smart pdf using AI, Previewer, Random Quote generator etc.<br><br>📬 Let’s connect: Always open to collaboration, learning, and building awesome tech — www.linkedin.com/in/abhilash-h-k<br><br>
 

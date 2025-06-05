@@ -14,6 +14,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhilash1777&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilash1777&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🧑‍💻 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/ABHILASH_H_K?ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
